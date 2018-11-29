@@ -1,0 +1,2 @@
+# ZarsBot
+Bot för discord
